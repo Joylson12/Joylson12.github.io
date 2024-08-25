@@ -45,7 +45,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const imageUrls = [
         'url-da-imagem-1.jpg',
         'url-da-imagem-2.jpg',
+        'url-da-imagem-3.jpg',
         'url-da-imagem-3.jpg'
+
     ];
     loadImages(imageUrls);
 });
